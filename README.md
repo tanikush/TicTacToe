@@ -1,1 +1,1 @@
-Make Tic Tac Toe Game for using javascript, css, html.
+I developed this TicTacToe Game using javascript, css, html.
